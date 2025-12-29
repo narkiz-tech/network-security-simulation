@@ -1,4 +1,4 @@
-# network-security-simulation
+# Network-Security-Simulation
 Simulated network security setup using Cisco Packet Tracer. Includes router interface configs, ACLs, and theoretical CBAC implementation. Demonstrates basic traffic filteSimulated Network Security Configuration using Cisco Packet Tracer
 
 Technologies Used
